@@ -1,5 +1,10 @@
 # ArcAerospace Wyvern :: CHANGE LOG
 
+* 2020-0715: 0.4.0.0 (StoneBlue) for KSP >= 1.4
+	+ minor cfg edits
+		- re-added ModuleTestSubject to the engine pods
+		- updated README
+		- renamed /Parts/Control, to /Parts/Command (this is the capsule/crew pod folder)
 * 2020-0710: 0.3.0.0 (StoneBlue) for KSP >= 1.4
 	+ Fixed IVA
 	+ Touched up textures with ReStock pallete
